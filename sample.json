@@ -1,0 +1,642 @@
+[
+  {
+    "head": "Kathmandu Valley",
+    "type": "_instance_of",
+    "tail": "inundation"
+  },
+  {
+    "head": "Kathmandu Valley",
+    "type": "_located_in_or_next_to_body_of_water",
+    "tail": "Bagmati"
+  },
+  {
+    "head": "Kathmandu Valley",
+    "type": "_located_in_or_next_to_body_of_water",
+    "tail": "Manohara River"
+  },
+  {
+    "head": "Waterlogged roads and schools",
+    "type": "_has_cause",
+    "tail": "inundations"
+  },
+  {
+    "head": "inundations",
+    "type": "_has_effect",
+    "tail": "Waterlogged roads and schools"
+  },
+  {
+    "head": "Budhanilakantha",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Kathmandu Valley"
+  },
+  {
+    "head": "Sundarijal",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Kathmandu Valley"
+  },
+  {
+    "head": "Nagarkot",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Kathmandu Valley"
+  },
+  {
+    "head": "Kathmandu Valley",
+    "type": "_contains_administrative_territorial_entity",
+    "tail": "Budhanilakantha"
+  },
+  {
+    "head": "Kathmandu Valley",
+    "type": "_contains_administrative_territorial_entity",
+    "tail": "Sundarijal"
+  },
+  {
+    "head": "Kathmandu Valley",
+    "type": "_contains_administrative_territorial_entity",
+    "tail": "Nagarkot"
+  },
+  {
+    "head": "Bishnumati",
+    "type": "_mouth_of_the_watercourse",
+    "tail": "Manohara River"
+  },
+  {
+    "head": "Dhobikhola",
+    "type": "_mouth_of_the_watercourse",
+    "tail": "Manohara River"
+  },
+  {
+    "head": "Bagmati",
+    "type": "_mouth_of_the_watercourse",
+    "tail": "Manohara River"
+  },
+  {
+    "head": "Manohara River",
+    "type": "_tributary",
+    "tail": "Bishnumati"
+  },
+  {
+    "head": "Manohara River",
+    "type": "_tributary",
+    "tail": "Dhobikhola"
+  },
+  {
+    "head": "Manohara River",
+    "type": "_tributary",
+    "tail": "Bagmati"
+  },
+  {
+    "head": "inundation",
+    "type": "_has_effect",
+    "tail": "floods"
+  },
+  {
+    "head": "Nagdhunga",
+    "type": "_shares_border_with",
+    "tail": "Sisnekhola"
+  },
+  {
+    "head": "Sisnekhola",
+    "type": "_shares_border_with",
+    "tail": "Nagdhunga"
+  },
+  {
+    "head": "A breakthrough of rescue tunnel",
+    "type": "_part_of",
+    "tail": "three years and seven months after the beginning of the construction"
+  },
+  {
+    "head": "three years and seven months after the beginning of the construction",
+    "type": "_has_part",
+    "tail": "A breakthrough of rescue tunnel"
+  },
+  {
+    "head": "three years and seven months after the beginning of the construction",
+    "type": "_has_part",
+    "tail": "three years and seven months after the beginning of the construction"
+  },
+  {
+    "head": "three years and seven months after the beginning of the construction",
+    "type": "_part_of",
+    "tail": "three years and seven months after the beginning of the construction"
+  },
+  {
+    "head": "Japanese Ambassador to Nepal",
+    "type": "_officeholder",
+    "tail": "Kikuta Yutaka"
+  },
+  {
+    "head": "Kikuta Yutaka",
+    "type": "_position_held",
+    "tail": "Japanese Ambassador to Nepal"
+  },
+  {
+    "head": "Nanda Chapai",
+    "type": "_position_held",
+    "tail": "Minister of State for Physical Infrastructure and Transport"
+  },
+  {
+    "head": "Kathmandu",
+    "type": "_country",
+    "tail": "Nepal"
+  },
+  {
+    "head": "consumption of fuel",
+    "type": "_has_effect",
+    "tail": "air pollution"
+  },
+  {
+    "head": "KP Sharma Oli",
+    "type": "_position_held",
+    "tail": "prime minister"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "Nepal Rastra Bank",
+    "type": "_instance_of",
+    "tail": "central bank"
+  },
+  {
+    "head": "Kumari Bank",
+    "type": "_owned_by",
+    "tail": "central bank"
+  },
+  {
+    "head": "Himalayan Bank",
+    "type": "_owned_by",
+    "tail": "central bank"
+  },
+  {
+    "head": "central bank",
+    "type": "_owner_of",
+    "tail": "Kumari Bank"
+  },
+  {
+    "head": "central bank",
+    "type": "_owner_of",
+    "tail": "Himalayan Bank"
+  },
+  {
+    "head": "Kumari Bank",
+    "type": "_instance_of",
+    "tail": "credit-deposit (CD) ratio"
+  },
+  {
+    "head": "central bank",
+    "type": "_subsidiary",
+    "tail": "Himalayan Bank"
+  },
+  {
+    "head": "Himalayan Bank",
+    "type": "_parent_organization",
+    "tail": "central bank"
+  },
+  {
+    "head": "Prime Commercial Bank",
+    "type": "_owned_by",
+    "tail": "central bank"
+  },
+  {
+    "head": "central bank",
+    "type": "_owner_of",
+    "tail": "Prime Commercial Bank"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "Teku",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Kathmandu"
+  },
+  {
+    "head": "Shrestha",
+    "type": "_position_held",
+    "tail": "DPM"
+  },
+  {
+    "head": "DPM Shrestha",
+    "type": "_member_of_political_party",
+    "tail": "Tamang Ghedung Federal Committee"
+  },
+  {
+    "head": "Bhagawati Pandey",
+    "type": "_member_of_political_party",
+    "tail": "Committee and Association"
+  },
+  {
+    "head": "Bhagawati Pandey",
+    "type": "_member_of_political_party",
+    "tail": "Committee and Association"
+  },
+  {
+    "head": "Kathmandu",
+    "type": "_legislative_body",
+    "tail": "District Court"
+  },
+  {
+    "head": "District Court",
+    "type": "_applies_to_jurisdiction",
+    "tail": "Kathmandu"
+  },
+  {
+    "head": "DPM Shrestha",
+    "type": "_member_of_political_party",
+    "tail": "Committee and Association"
+  },
+  {
+    "head": "Committee and Association",
+    "type": "_chairperson",
+    "tail": "DPM Shrestha"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "Narayan Kaji Shrestha",
+    "type": "_position_held",
+    "tail": "Home Minister"
+  },
+  {
+    "head": "Home Minister",
+    "type": "_officeholder",
+    "tail": "DPM Shrestha"
+  },
+  {
+    "head": "DPM Shrestha",
+    "type": "_position_held",
+    "tail": "Home Minister"
+  },
+  {
+    "head": "gold smuggling case",
+    "type": "_location",
+    "tail": "Tribhuvan International Airport"
+  },
+  {
+    "head": "Devraj Ghimire",
+    "type": "_position_held",
+    "tail": "Speaker"
+  },
+  {
+    "head": "Bhutanese refugee scam",
+    "type": "_participant",
+    "tail": "Top Bahadur Rayamajhi"
+  },
+  {
+    "head": "Ashok Rai",
+    "type": "_position_held",
+    "tail": "Minister of Education Science and Technology"
+  },
+  {
+    "head": "Mahesh Bartaula",
+    "type": "_member_of_political_party",
+    "tail": "UML"
+  },
+  {
+    "head": "home minister",
+    "type": "_part_of",
+    "tail": "government"
+  },
+  {
+    "head": "government",
+    "type": "_has_part",
+    "tail": "home minister"
+  },
+  {
+    "head": "the ruling party's stance",
+    "type": "_opposite_of",
+    "tail": "opposition"
+  },
+  {
+    "head": "opposition",
+    "type": "_opposite_of",
+    "tail": "the ruling party's stance"
+  },
+  {
+    "head": "meeting of the House of Representatives",
+    "type": "_has_part",
+    "tail": "three times in a row"
+  },
+  {
+    "head": "three times in a row",
+    "type": "_part_of",
+    "tail": "meeting of the House of Representatives"
+  },
+  {
+    "head": "High Level Inquiry Committee",
+    "type": "_part_of",
+    "tail": "UML'S"
+  },
+  {
+    "head": "Department of Revenue Investigation",
+    "type": "_subsidiary",
+    "tail": "CIB"
+  },
+  {
+    "head": "Ghimire",
+    "type": "_position_held",
+    "tail": "Speaker"
+  },
+  {
+    "head": "Yogesh Bhattarai",
+    "type": "_member_of_political_party",
+    "tail": "UML"
+  },
+  {
+    "head": "Lalita Niwas Land grab",
+    "type": "_part_of",
+    "tail": "Sudan scam"
+  },
+  {
+    "head": "PM",
+    "type": "_officeholder",
+    "tail": "Dahal"
+  },
+  {
+    "head": "Dahal",
+    "type": "_position_held",
+    "tail": "PM"
+  },
+  {
+    "head": "Bishwa Prakash Sharma",
+    "type": "_member_of_political_party",
+    "tail": "Nepali Congress"
+  },
+  {
+    "head": "Lalita Niwas Land Grab scam",
+    "type": "_instance_of",
+    "tail": "fake Bhutanese refugees scam"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "migrant smuggling",
+    "type": "_subclass_of",
+    "tail": "trafficking"
+  },
+  {
+    "head": "COVID-19 pandemic",
+    "type": "_point_in_time",
+    "tail": "2020"
+  },
+  {
+    "head": "COVID-19 pandemic",
+    "type": "_point_in_time",
+    "tail": "2020"
+  },
+  {
+    "head": "child trafficking",
+    "type": "_subclass_of",
+    "tail": "trafficking"
+  },
+  {
+    "head": "trafficking in persons",
+    "type": "_subclass_of",
+    "tail": "trafficking"
+  },
+  {
+    "head": "Human Trafficking and Investigation Bureau of Nepal Police",
+    "type": "_country",
+    "tail": "Nepal"
+  },
+  {
+    "head": "Middle-East",
+    "type": "_part_of",
+    "tail": "Asia"
+  },
+  {
+    "head": "Asia",
+    "type": "_has_part",
+    "tail": "Middle-East"
+  },
+  {
+    "head": "Police",
+    "type": "_country",
+    "tail": "Nepal"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "School Education Bill",
+    "type": "_legislated_by",
+    "tail": "House of Representative"
+  },
+  {
+    "head": "Guthi",
+    "type": "_subclass_of",
+    "tail": "non-profit"
+  },
+  {
+    "head": "PABSON",
+    "type": "_chairperson",
+    "tail": "DK Dhungana"
+  },
+  {
+    "head": "DK Dhungana",
+    "type": "_member_of_political_party",
+    "tail": "PABSON"
+  },
+  {
+    "head": "DK Dhungana",
+    "type": "_member_of_political_party",
+    "tail": "N-PABSON"
+  },
+  {
+    "head": "N-PABSON",
+    "type": "_chairperson",
+    "tail": "Pandab Hamal"
+  },
+  {
+    "head": "Pandab Hamal",
+    "type": "_member_of_political_party",
+    "tail": "N-PABSON"
+  },
+  {
+    "head": "HISSAN",
+    "type": "_chairperson",
+    "tail": "Ramesh Silwal"
+  },
+  {
+    "head": "Ramesh Silwal",
+    "type": "_member_of_political_party",
+    "tail": "HISSAN"
+  },
+  {
+    "head": "private schools",
+    "type": "_subclass_of",
+    "tail": "private investment"
+  },
+  {
+    "head": "school fees",
+    "type": "_different_from",
+    "tail": "teachers' salaries"
+  },
+  {
+    "head": "teachers' salaries",
+    "type": "_different_from",
+    "tail": "school fees"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "Kailali",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Kailari Rural Municipality"
+  },
+  {
+    "head": "last night",
+    "type": "_instance_of",
+    "tail": "continuous rainfalls"
+  },
+  {
+    "head": "Bhuiyafata",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Dhangadi"
+  },
+  {
+    "head": "Rampur",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Dhangadi"
+  },
+  {
+    "head": "Basanta",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Dhangadi"
+  },
+  {
+    "head": "Narayan",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Dhangadi"
+  },
+  {
+    "head": "Mohana",
+    "type": "_mouth_of_the_watercourse",
+    "tail": "Karnali River"
+  },
+  {
+    "head": "Budhitola",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Dadeldhura",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Achham",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Doti",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Bajura",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Bajhang",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Darchula",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Sudurpaschim"
+  },
+  {
+    "head": "Kanchanpur",
+    "type": "_located_in_or_next_to_body_of_water",
+    "tail": "Syali River"
+  },
+  {
+    "head": "The Himalayan Times",
+    "type": "_instance_of",
+    "tail": "print"
+  },
+  {
+    "head": "Nepal",
+    "type": "_office_held_by_head_of_government",
+    "tail": "Prime Minister"
+  },
+  {
+    "head": "Nepal",
+    "type": "_head_of_government",
+    "tail": "Pushpa Kamal Dahal"
+  },
+  {
+    "head": "Prime Minister",
+    "type": "_country",
+    "tail": "Nepal"
+  },
+  {
+    "head": "Prime Minister",
+    "type": "_officeholder",
+    "tail": "Pushpa Kamal Dahal"
+  },
+  {
+    "head": "Pushpa Kamal Dahal",
+    "type": "_position_held",
+    "tail": "Prime Minister"
+  },
+  {
+    "head": "official residence of the Prime Minister",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "Baluwatar"
+  },
+  {
+    "head": "Nepal",
+    "type": "_diplomatic_relation",
+    "tail": "EU"
+  },
+  {
+    "head": "EU",
+    "type": "_diplomatic_relation",
+    "tail": "Nepal"
+  },
+  {
+    "head": "CPN-UML",
+    "type": "_instance_of",
+    "tail": "opposition party"
+  },
+  {
+    "head": "Narayan Kaji Shrestha",
+    "type": "_position_held",
+    "tail": "Minister for Home Affairs"
+  },
+  {
+    "head": "Mahesh Kumar Bartaula",
+    "type": "_member_of_political_party",
+    "tail": "UML"
+  },
+  {
+    "head": "Rajya Sabha",
+    "type": "_part_of",
+    "tail": "Rajya Sabha"
+  },
+  {
+    "head": "Rajya Sabha",
+    "type": "_has_part",
+    "tail": "Rajya Sabha"
+  }
+]

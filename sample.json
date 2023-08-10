@@ -1,143 +1,113 @@
 [
   {
-    "head": "Kathmandu Valley",
+    "head": "kathmandu valley",
     "type": "_instance_of",
     "tail": "inundation"
   },
   {
-    "head": "Kathmandu Valley",
-    "type": "_located_in_or_next_to_body_of_water",
-    "tail": "Bagmati"
+    "head": "dhungedhara",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu"
   },
   {
-    "head": "Kathmandu Valley",
-    "type": "_located_in_or_next_to_body_of_water",
-    "tail": "Manohara River"
+    "head": "gaurighat",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu"
   },
   {
-    "head": "Waterlogged roads and schools",
+    "head": "guheshwori",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu"
+  },
+  {
+    "head": "kapan",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu"
+  },
+  {
+    "head": "samakhushi",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu"
+  },
+  {
+    "head": "anamnagar",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu"
+  },
+  {
+    "head": "waterlogged roads",
+    "type": "_has_effect",
+    "tail": "inconvenience"
+  },
+  {
+    "head": "inconvenience",
     "type": "_has_cause",
-    "tail": "inundations"
+    "tail": "waterlogged roads"
   },
   {
-    "head": "inundations",
+    "head": "nagarkot",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kathmandu valley"
+  },
+  {
+    "head": "kathmandu valley",
+    "type": "_contains_administrative_territorial_entity",
+    "tail": "nagarkot"
+  },
+  {
+    "head": "bishnumati",
+    "type": "_mouth_of_the_watercourse",
+    "tail": "manohara"
+  },
+  {
+    "head": "manohara",
+    "type": "_tributary",
+    "tail": "bishnumati"
+  },
+  {
+    "head": "flood",
     "type": "_has_effect",
-    "tail": "Waterlogged roads and schools"
+    "tail": "inundation"
   },
   {
-    "head": "Budhanilakantha",
-    "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Kathmandu Valley"
+    "head": "nagdhunga-sisnekhola tunnel",
+    "type": "_instance_of",
+    "tail": "rescue tunnel"
   },
   {
-    "head": "Sundarijal",
-    "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Kathmandu Valley"
-  },
-  {
-    "head": "Nagarkot",
-    "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Kathmandu Valley"
-  },
-  {
-    "head": "Kathmandu Valley",
-    "type": "_contains_administrative_territorial_entity",
-    "tail": "Budhanilakantha"
-  },
-  {
-    "head": "Kathmandu Valley",
-    "type": "_contains_administrative_territorial_entity",
-    "tail": "Sundarijal"
-  },
-  {
-    "head": "Kathmandu Valley",
-    "type": "_contains_administrative_territorial_entity",
-    "tail": "Nagarkot"
-  },
-  {
-    "head": "Bishnumati",
-    "type": "_mouth_of_the_watercourse",
-    "tail": "Manohara River"
-  },
-  {
-    "head": "Dhobikhola",
-    "type": "_mouth_of_the_watercourse",
-    "tail": "Manohara River"
-  },
-  {
-    "head": "Bagmati",
-    "type": "_mouth_of_the_watercourse",
-    "tail": "Manohara River"
-  },
-  {
-    "head": "Manohara River",
-    "type": "_tributary",
-    "tail": "Bishnumati"
-  },
-  {
-    "head": "Manohara River",
-    "type": "_tributary",
-    "tail": "Dhobikhola"
-  },
-  {
-    "head": "Manohara River",
-    "type": "_tributary",
-    "tail": "Bagmati"
-  },
-  {
-    "head": "inundation",
-    "type": "_has_effect",
-    "tail": "floods"
-  },
-  {
-    "head": "Nagdhunga",
-    "type": "_shares_border_with",
-    "tail": "Sisnekhola"
-  },
-  {
-    "head": "Sisnekhola",
-    "type": "_shares_border_with",
-    "tail": "Nagdhunga"
-  },
-  {
-    "head": "A breakthrough of rescue tunnel",
+    "head": "rescue tunnel",
     "type": "_part_of",
-    "tail": "three years and seven months after the beginning of the construction"
+    "tail": "construction"
   },
   {
-    "head": "three years and seven months after the beginning of the construction",
+    "head": "construction",
     "type": "_has_part",
-    "tail": "A breakthrough of rescue tunnel"
+    "tail": "rescue tunnel"
   },
   {
-    "head": "three years and seven months after the beginning of the construction",
-    "type": "_has_part",
-    "tail": "three years and seven months after the beginning of the construction"
+    "head": "nepal",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "kikuta yutaka"
   },
   {
-    "head": "three years and seven months after the beginning of the construction",
-    "type": "_part_of",
-    "tail": "three years and seven months after the beginning of the construction"
+    "head": "kikuta yutaka",
+    "type": "_contains_administrative_territorial_entity",
+    "tail": "nepal"
   },
   {
-    "head": "Japanese Ambassador to Nepal",
-    "type": "_officeholder",
-    "tail": "Kikuta Yutaka"
-  },
-  {
-    "head": "Kikuta Yutaka",
+    "head": "nanda chapai",
     "type": "_position_held",
-    "tail": "Japanese Ambassador to Nepal"
+    "tail": "minister of state for physical infrastructure and transport"
   },
   {
-    "head": "Nanda Chapai",
-    "type": "_position_held",
-    "tail": "Minister of State for Physical Infrastructure and Transport"
+    "head": "kathmandu",
+    "type": "_shares_border_with",
+    "tail": "nepal"
   },
   {
-    "head": "Kathmandu",
-    "type": "_country",
-    "tail": "Nepal"
+    "head": "kathmandu",
+    "type": "_shares_border_with",
+    "tail": "nepal"
   },
   {
     "head": "consumption of fuel",
@@ -145,159 +115,179 @@
     "tail": "air pollution"
   },
   {
-    "head": "KP Sharma Oli",
+    "head": "air pollution",
+    "type": "_has_cause",
+    "tail": "consumption of fuel"
+  },
+  {
+    "head": "kp sharma oli",
     "type": "_position_held",
     "tail": "prime minister"
   },
   {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 8, 2023"
   },
   {
-    "head": "Nepal Rastra Bank",
+    "head": "prime commercial bank",
     "type": "_instance_of",
-    "tail": "central bank"
+    "tail": "bank"
   },
   {
-    "head": "Kumari Bank",
+    "head": "kumari bank",
+    "type": "_instance_of",
+    "tail": "bank"
+  },
+  {
+    "head": "himalayan bank",
+    "type": "_instance_of",
+    "tail": "bank"
+  },
+  {
+    "head": "kumari bank",
     "type": "_owned_by",
     "tail": "central bank"
   },
   {
-    "head": "Himalayan Bank",
+    "head": "himalayan bank",
     "type": "_owned_by",
     "tail": "central bank"
   },
   {
     "head": "central bank",
     "type": "_owner_of",
-    "tail": "Kumari Bank"
+    "tail": "kumari bank"
   },
   {
     "head": "central bank",
     "type": "_owner_of",
-    "tail": "Himalayan Bank"
+    "tail": "himalayan bank"
   },
   {
-    "head": "Kumari Bank",
-    "type": "_instance_of",
-    "tail": "credit-deposit (CD) ratio"
+    "head": "bank",
+    "type": "_has_part",
+    "tail": "credit-deposit (cd) ratio"
+  },
+  {
+    "head": "credit-deposit (cd) ratio",
+    "type": "_part_of",
+    "tail": "bank"
   },
   {
     "head": "central bank",
     "type": "_subsidiary",
-    "tail": "Himalayan Bank"
+    "tail": "himalayan bank"
   },
   {
-    "head": "Himalayan Bank",
+    "head": "himalayan bank",
     "type": "_parent_organization",
     "tail": "central bank"
   },
   {
-    "head": "Prime Commercial Bank",
-    "type": "_owned_by",
-    "tail": "central bank"
+    "head": "prime",
+    "type": "_subclass_of",
+    "tail": "commercial bank"
   },
   {
-    "head": "central bank",
-    "type": "_owner_of",
-    "tail": "Prime Commercial Bank"
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 8, 2023"
   },
   {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
-  },
-  {
-    "head": "Teku",
+    "head": "teku",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Kathmandu"
+    "tail": "kathmandu"
   },
   {
-    "head": "Shrestha",
-    "type": "_position_held",
-    "tail": "DPM"
-  },
-  {
-    "head": "DPM Shrestha",
-    "type": "_member_of_political_party",
-    "tail": "Tamang Ghedung Federal Committee"
-  },
-  {
-    "head": "Bhagawati Pandey",
-    "type": "_member_of_political_party",
-    "tail": "Committee and Association"
-  },
-  {
-    "head": "Bhagawati Pandey",
-    "type": "_member_of_political_party",
-    "tail": "Committee and Association"
-  },
-  {
-    "head": "Kathmandu",
-    "type": "_legislative_body",
-    "tail": "District Court"
-  },
-  {
-    "head": "District Court",
-    "type": "_applies_to_jurisdiction",
-    "tail": "Kathmandu"
-  },
-  {
-    "head": "DPM Shrestha",
-    "type": "_member_of_political_party",
-    "tail": "Committee and Association"
-  },
-  {
-    "head": "Committee and Association",
-    "type": "_chairperson",
-    "tail": "DPM Shrestha"
-  },
-  {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
-  },
-  {
-    "head": "Narayan Kaji Shrestha",
-    "type": "_position_held",
-    "tail": "Home Minister"
-  },
-  {
-    "head": "Home Minister",
+    "head": "DPM",
     "type": "_officeholder",
-    "tail": "DPM Shrestha"
+    "tail": "shrestha"
   },
   {
-    "head": "DPM Shrestha",
+    "head": "shrestha",
     "type": "_position_held",
-    "tail": "Home Minister"
+    "tail": "dpm"
+  },
+  {
+    "head": "tamang ghedung",
+    "type": "_part_of",
+    "tail": "magar association"
+  },
+  {
+    "head": "magar association",
+    "type": "_has_part",
+    "tail": "tamang ghedung"
+  },
+  {
+    "head": "bhagawati pandey",
+    "type": "_notable_work",
+    "tail": "controversial statements against certain ethnic communities"
+  },
+  {
+    "head": "controversial statements against certain ethnic communities",
+    "type": "_author",
+    "tail": "bhagawati pandey"
+  },
+  {
+    "head": "clash ensued between the police and protesters",
+    "type": "_location",
+    "tail": "kathmandu district court"
+  },
+  {
+    "head": "2009 general election",
+    "type": "_point_in_time",
+    "tail": "2009"
+  },
+  {
+    "head": "2009 general election",
+    "type": "_point_in_time",
+    "tail": "2009"
+  },
+  {
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 8, 2023"
+  },
+  {
+    "head": "narayan kaji shrestha",
+    "type": "_position_held",
+    "tail": "home minister"
+  },
+  {
+    "head": "shrestha",
+    "type": "_position_held",
+    "tail": "home minister"
   },
   {
     "head": "gold smuggling case",
     "type": "_location",
-    "tail": "Tribhuvan International Airport"
+    "tail": "tribhuvan international airport"
   },
   {
-    "head": "Devraj Ghimire",
+    "head": "devraj ghimire",
+    "type": "_member_of",
+    "tail": "hor"
+  },
+  {
+    "head": "bhutanese refugee scam",
+    "type": "_point_in_time",
+    "tail": "2022"
+  },
+  {
+    "head": "minister of law, justice and parliamentary affairs",
+    "type": "_officeholder",
+    "tail": "dhanraj gurung"
+  },
+  {
+    "head": "dhanraj gurung",
     "type": "_position_held",
-    "tail": "Speaker"
+    "tail": "minister of law, justice and parliamentary affairs"
   },
   {
-    "head": "Bhutanese refugee scam",
-    "type": "_participant",
-    "tail": "Top Bahadur Rayamajhi"
-  },
-  {
-    "head": "Ashok Rai",
+    "head": "mahesh bartaula",
     "type": "_position_held",
-    "tail": "Minister of Education Science and Technology"
-  },
-  {
-    "head": "Mahesh Bartaula",
-    "type": "_member_of_political_party",
-    "tail": "UML"
+    "tail": "uml chief whip"
   },
   {
     "head": "home minister",
@@ -320,64 +310,79 @@
     "tail": "the ruling party's stance"
   },
   {
-    "head": "meeting of the House of Representatives",
+    "head": "meeting of the house of representatives",
     "type": "_has_part",
     "tail": "three times in a row"
   },
   {
     "head": "three times in a row",
     "type": "_part_of",
-    "tail": "meeting of the House of Representatives"
+    "tail": "meeting of the house of representatives"
   },
   {
-    "head": "High Level Inquiry Committee",
-    "type": "_part_of",
-    "tail": "UML'S"
+    "head": "Lord Mayor of London",
+    "type": "_different_from",
+    "tail": "Lord Mayor of London Borough of Camden"
   },
   {
-    "head": "Department of Revenue Investigation",
+    "head": "Lord Mayor of London Borough of Camden",
+    "type": "_different_from",
+    "tail": "Lord Mayor of London"
+  },
+  {
+    "head": "department of revenue",
     "type": "_subsidiary",
-    "tail": "CIB"
+    "tail": "cib"
   },
   {
-    "head": "Ghimire",
+    "head": "cib",
+    "type": "_parent_organization",
+    "tail": "department of revenue"
+  },
+  {
+    "head": "ghimire",
     "type": "_position_held",
-    "tail": "Speaker"
+    "tail": "speaker"
   },
   {
-    "head": "Yogesh Bhattarai",
+    "head": "yogesh bhattarai",
+    "type": "_member_of",
+    "tail": "uml"
+  },
+  {
+    "head": "lalita niwas land grab",
+    "type": "_has_effect",
+    "tail": "sudan scam"
+  },
+  {
+    "head": "revenue investigation",
+    "type": "_parent_organization",
+    "tail": "cib"
+  },
+  {
+    "head": "cib",
+    "type": "_subsidiary",
+    "tail": "revenue investigation"
+  },
+  {
+    "head": "bishwa prakash sharma",
     "type": "_member_of_political_party",
-    "tail": "UML"
+    "tail": "nepali congress"
   },
   {
-    "head": "Lalita Niwas Land grab",
-    "type": "_part_of",
-    "tail": "Sudan scam"
+    "head": "fake bhutanese refugees scam",
+    "type": "_followed_by",
+    "tail": "lalita niwas land grab scam"
   },
   {
-    "head": "PM",
-    "type": "_officeholder",
-    "tail": "Dahal"
+    "head": "lalita niwas land grab scam",
+    "type": "_follows",
+    "tail": "fake bhutanese refugees scam"
   },
   {
-    "head": "Dahal",
-    "type": "_position_held",
-    "tail": "PM"
-  },
-  {
-    "head": "Bishwa Prakash Sharma",
-    "type": "_member_of_political_party",
-    "tail": "Nepali Congress"
-  },
-  {
-    "head": "Lalita Niwas Land Grab scam",
-    "type": "_instance_of",
-    "tail": "fake Bhutanese refugees scam"
-  },
-  {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 9, 2023"
   },
   {
     "head": "migrant smuggling",
@@ -385,14 +390,14 @@
     "tail": "trafficking"
   },
   {
-    "head": "COVID-19 pandemic",
-    "type": "_point_in_time",
-    "tail": "2020"
+    "head": "covid-19 pandemic",
+    "type": "_has_effect",
+    "tail": "lockdown in the country"
   },
   {
-    "head": "COVID-19 pandemic",
-    "type": "_point_in_time",
-    "tail": "2020"
+    "head": "lockdown in the country",
+    "type": "_has_cause",
+    "tail": "covid-19 pandemic"
   },
   {
     "head": "child trafficking",
@@ -400,79 +405,89 @@
     "tail": "trafficking"
   },
   {
-    "head": "trafficking in persons",
+    "head": "human smuggling",
     "type": "_subclass_of",
-    "tail": "trafficking"
+    "tail": "trafficking in persons"
   },
   {
-    "head": "Human Trafficking and Investigation Bureau of Nepal Police",
-    "type": "_country",
-    "tail": "Nepal"
+    "head": "human trafficking",
+    "type": "_practiced_by",
+    "tail": "human smugglers"
   },
   {
-    "head": "Middle-East",
-    "type": "_part_of",
-    "tail": "Asia"
+    "head": "human smugglers",
+    "type": "_field_of_this_occupation",
+    "tail": "human trafficking"
   },
   {
-    "head": "Asia",
-    "type": "_has_part",
-    "tail": "Middle-East"
+    "head": "europe",
+    "type": "_shares_border_with",
+    "tail": "australia"
   },
   {
-    "head": "Police",
-    "type": "_country",
-    "tail": "Nepal"
+    "head": "europe",
+    "type": "_shares_border_with",
+    "tail": "asia"
   },
   {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
+    "head": "australia",
+    "type": "_shares_border_with",
+    "tail": "europe"
   },
   {
-    "head": "School Education Bill",
+    "head": "australia",
+    "type": "_shares_border_with",
+    "tail": "asia"
+  },
+  {
+    "head": "asia",
+    "type": "_shares_border_with",
+    "tail": "europe"
+  },
+  {
+    "head": "asia",
+    "type": "_shares_border_with",
+    "tail": "australia"
+  },
+  {
+    "head": "looted",
+    "type": "_subclass_of",
+    "tail": "hooligans"
+  },
+  {
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 9, 2023"
+  },
+  {
+    "head": "school education bill",
     "type": "_legislated_by",
-    "tail": "House of Representative"
+    "tail": "house of representative"
   },
   {
-    "head": "Guthi",
-    "type": "_subclass_of",
-    "tail": "non-profit"
+    "head": "nepal",
+    "type": "_instance_of",
+    "tail": "umbrella organisations"
   },
   {
-    "head": "PABSON",
-    "type": "_chairperson",
-    "tail": "DK Dhungana"
+    "head": "nepal",
+    "type": "_instance_of",
+    "tail": "umbrella organisations"
   },
   {
-    "head": "DK Dhungana",
-    "type": "_member_of_political_party",
-    "tail": "PABSON"
+    "head": "nepal",
+    "type": "_instance_of",
+    "tail": "umbrella organisations"
   },
   {
-    "head": "DK Dhungana",
-    "type": "_member_of_political_party",
-    "tail": "N-PABSON"
+    "head": "pandab hamal",
+    "type": "_position_held",
+    "tail": "pandab"
   },
   {
-    "head": "N-PABSON",
-    "type": "_chairperson",
-    "tail": "Pandab Hamal"
-  },
-  {
-    "head": "Pandab Hamal",
-    "type": "_member_of_political_party",
-    "tail": "N-PABSON"
-  },
-  {
-    "head": "HISSAN",
-    "type": "_chairperson",
-    "tail": "Ramesh Silwal"
-  },
-  {
-    "head": "Ramesh Silwal",
-    "type": "_member_of_political_party",
-    "tail": "HISSAN"
+    "head": "ramesh silwal",
+    "type": "_position_held",
+    "tail": "hissan"
   },
   {
     "head": "private schools",
@@ -490,153 +505,128 @@
     "tail": "school fees"
   },
   {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 9, 2023"
   },
   {
-    "head": "Kailali",
+    "head": "kailali",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Kailari Rural Municipality"
+    "tail": "kailari rural municipality"
   },
   {
     "head": "last night",
-    "type": "_instance_of",
-    "tail": "continuous rainfalls"
+    "type": "_point_in_time",
+    "tail": "last night"
   },
   {
-    "head": "Bhuiyafata",
+    "head": "tikapur",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Dhangadi"
+    "tail": "dhangadi"
   },
   {
-    "head": "Rampur",
-    "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Dhangadi"
+    "head": "karnali river",
+    "type": "_tributary",
+    "tail": "mohana"
   },
   {
-    "head": "Basanta",
-    "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Dhangadi"
-  },
-  {
-    "head": "Narayan",
-    "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Dhangadi"
-  },
-  {
-    "head": "Mohana",
+    "head": "mohana",
     "type": "_mouth_of_the_watercourse",
-    "tail": "Karnali River"
+    "tail": "karnali river"
   },
   {
-    "head": "Budhitola",
+    "head": "budhitola",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Dadeldhura",
+    "head": "dadeldhura",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Achham",
+    "head": "achham",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Doti",
+    "head": "doti",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Bajura",
+    "head": "bajura",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Bajhang",
+    "head": "bajhang",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Darchula",
+    "head": "darchula",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Sudurpaschim"
+    "tail": "sudurpaschim"
   },
   {
-    "head": "Kanchanpur",
-    "type": "_located_in_or_next_to_body_of_water",
-    "tail": "Syali River"
-  },
-  {
-    "head": "The Himalayan Times",
-    "type": "_instance_of",
-    "tail": "print"
-  },
-  {
-    "head": "Nepal",
-    "type": "_office_held_by_head_of_government",
-    "tail": "Prime Minister"
-  },
-  {
-    "head": "Nepal",
-    "type": "_head_of_government",
-    "tail": "Pushpa Kamal Dahal"
-  },
-  {
-    "head": "Prime Minister",
-    "type": "_country",
-    "tail": "Nepal"
-  },
-  {
-    "head": "Prime Minister",
-    "type": "_officeholder",
-    "tail": "Pushpa Kamal Dahal"
-  },
-  {
-    "head": "Pushpa Kamal Dahal",
-    "type": "_position_held",
-    "tail": "Prime Minister"
-  },
-  {
-    "head": "official residence of the Prime Minister",
+    "head": "syali river",
     "type": "_located_in_the_administrative_territorial_entity",
-    "tail": "Baluwatar"
+    "tail": "kanchanpur"
   },
   {
-    "head": "Nepal",
+    "head": "himalayan",
+    "type": "_start_time",
+    "tail": "august 9, 2023"
+  },
+  {
+    "head": "nepal",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "nona deprez"
+  },
+  {
+    "head": "nona deprez",
+    "type": "_capital",
+    "tail": "nepal"
+  },
+  {
+    "head": "official residence of the prime minister",
+    "type": "_located_in_the_administrative_territorial_entity",
+    "tail": "baluwatar"
+  },
+  {
+    "head": "nepal",
     "type": "_diplomatic_relation",
-    "tail": "EU"
+    "tail": "eu"
   },
   {
-    "head": "EU",
+    "head": "eu",
     "type": "_diplomatic_relation",
-    "tail": "Nepal"
+    "tail": "nepal"
   },
   {
-    "head": "CPN-UML",
+    "head": "cpn-uml",
     "type": "_instance_of",
     "tail": "opposition party"
   },
   {
-    "head": "Narayan Kaji Shrestha",
+    "head": "narayan kaji shrestha",
     "type": "_position_held",
-    "tail": "Minister for Home Affairs"
+    "tail": "deputy prime minister"
   },
   {
-    "head": "Mahesh Kumar Bartaula",
-    "type": "_member_of_political_party",
-    "tail": "UML"
+    "head": "mahesh kumar bartaula",
+    "type": "_position_held",
+    "tail": "uml whip"
   },
   {
-    "head": "Rajya Sabha",
-    "type": "_part_of",
-    "tail": "Rajya Sabha"
+    "head": "Uml",
+    "type": "_mouth_of_the_watercourse",
+    "tail": "uml"
   },
   {
-    "head": "Rajya Sabha",
-    "type": "_has_part",
-    "tail": "Rajya Sabha"
+    "head": "uml",
+    "type": "_tributary",
+    "tail": "uml"
   }
 ]
